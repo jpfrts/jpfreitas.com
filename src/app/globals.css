@@ -1,4 +1,17 @@
-@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@font-face {
+  font-family: "BB Pro Text";
+  src: url("/fonts/bb_pro_text.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "BB Pro Mono";
+  src: url("/fonts/bb_pro_mono.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "BB Studio Headline";
+  src: url("/fonts/bb_studio_headline.woff2") format("woff2");
+}
 
 h1,
 h2,
@@ -17,7 +30,7 @@ a {
 }
 
 * {
-  font-family: "Raleway";
+  font-family: "BB Pro Text";
   box-sizing: border-box;
 }
 
