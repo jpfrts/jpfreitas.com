@@ -4,9 +4,9 @@ export const Card1 = () => {
   return (
     <Card1Container>
       <Card1Titulo>
-        jpfreitas<CardHifen>_</CardHifen>
+        lives<CardHifen>_</CardHifen>
       </Card1Titulo>
-      <Card1Video />
+      <Card1Video src="/videos/placeholder.mp4" />
     </Card1Container>
   );
 };

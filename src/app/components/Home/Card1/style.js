@@ -12,29 +12,12 @@ export const Card1Container = styled.div`
   align-items: center;
 `;
 
-export const BgAnimacao = keyframes`
-0% {background-position: 0% 50%}
-50% {background-position: 100% 50%}
-100% {background-position: 0% 50%}`;
-
-export const Card1Video = styled.div`
+export const Card1Video = styled.video`
   position: absolute;
   right: 0;
   bottom: 0;
   object-fit: cover;
-  background: linear-gradient(
-    90deg,
-    rgba(0, 0, 0, 1) 0%,
-    rgba(53, 53, 53, 1) 25%,
-    rgba(94, 94, 94, 1) 50%,
-    rgba(45, 45, 45, 1) 75%,
-    rgba(0, 0, 0, 1) 100%
-  );
-  animation: ${BgAnimacao} 30s infinite ease;
-  background-size: 500% 500%;
   z-index: -1;
-  width: 100%;
-  height: 100%;
 `;
 
 export const Card1Titulo = styled.h2`
