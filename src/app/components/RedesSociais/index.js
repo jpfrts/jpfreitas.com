@@ -1,5 +1,11 @@
 import Link from "next/link";
-import { FaInstagram, FaTwitch, FaYoutube } from "react-icons/fa";
+import {
+  FaInstagram,
+  FaTiktok,
+  FaTwitch,
+  FaTwitter,
+  FaYoutube,
+} from "react-icons/fa";
 import { RedesContainer } from "./style";
 
 export const RedesSociais = () => {
@@ -25,6 +31,20 @@ export const RedesSociais = () => {
         target="_blank"
       >
         <FaYoutube />
+      </Link>
+      <Link
+        href="https://tiktok.com/@jpfreitas_"
+        title="YouTube - jp freitas"
+        target="_blank"
+      >
+        <FaTiktok />
+      </Link>
+      <Link
+        href="https://twitter.com/@jpfreitas_"
+        title="YouTube - jp freitas"
+        target="_blank"
+      >
+        <FaTwitter />
       </Link>
     </RedesContainer>
   );
