@@ -14,8 +14,8 @@ export const RodapeContainer = styled.footer`
 `;
 
 export const RodapeCopyright = styled.span`
-  font-family: Fixedsys;
-  font-size: 12px;
+  font-family: "Liquid Crystal";
+  font-size: 14px;
   color: #ffffff;
   display: flex;
 `;
