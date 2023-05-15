@@ -5,16 +5,6 @@ import "./globals.css";
 export const metadata = {
   title: "jp freitas",
   description: "oie, aqui é o jp freitas :)",
-  creator: "JP Freitas",
-  authors: [
-    {
-      name: "JP Freitas",
-    },
-    { url: "https://twitch.tv/jpfreitas_" },
-    { url: "https://instagram.com/jpfreitas_" },
-    { url: "https://twitter.com/jpfreitas_" },
-    { url: "https://youtube.com/@jp.freitas" },
-  ],
   twitter: {
     card: "summary_large_image",
     creator: "@jpfreitas_",

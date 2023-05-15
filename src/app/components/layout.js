@@ -1,3 +1,4 @@
+import { ArticleJsonLd } from "next-seo";
 import { Card1 } from "./Home/Card1";
 import { Rodape } from "./Rodape";
 
