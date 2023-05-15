@@ -13,6 +13,11 @@
   src: url("/fonts/bb_studio_headline.woff2") format("woff2");
 }
 
+@font-face {
+  font-family: "Liquid Crystal";
+  src: url("/fonts/liquidcrystal.woff2") format("woff2");
+}
+
 h1,
 h2,
 h3,
