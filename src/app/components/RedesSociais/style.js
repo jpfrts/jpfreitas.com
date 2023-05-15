@@ -5,7 +5,7 @@ export const RedesContainer = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 15px;
+  gap: 17px;
 
   a {
     font-size: 24px;

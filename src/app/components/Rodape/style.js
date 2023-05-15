@@ -14,7 +14,7 @@ export const RodapeContainer = styled.footer`
 `;
 
 export const RodapeCopyright = styled.span`
-  font-size: 16px;
+  font-size: 12px;
   color: #ffffff;
   display: flex;
 `;
