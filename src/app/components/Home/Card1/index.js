@@ -6,7 +6,7 @@ export const Card1 = () => {
       <Card1Titulo>
         lives<CardHifen>_</CardHifen>
       </Card1Titulo>
-      <Card1Video src="/videos/placeholder.mp4" />
+      <Card1Video autoPlay loop muted src="/videos/placeholder.mp4" />
     </Card1Container>
   );
 };
