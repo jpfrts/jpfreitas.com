@@ -1,5 +1,5 @@
-import { Rodape } from "./components/Rodape";
+import { Layout } from "./components/layout";
 
 export default function Home() {
-  return <Rodape />;
+  return <Layout />;
 }
