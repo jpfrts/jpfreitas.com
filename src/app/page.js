@@ -7,11 +7,11 @@ export default function Home() {
       <Layout />;
       <SocialProfileJsonLd
         useAppDir={true}
-        type="Person"
-        name="jp freitas"
+        type="Organization"
+        name="JP Freitas"
         url="https://jpfreitas.com"
         sameAs={[
-          "https://twitch.tv/jpfreitas_",
+          "https://twitch.tv/jpfreitas",
           "https://instagram.com/jpfreitas_",
           "https://youtube.com/@jp.freitas",
           "https://tiktok.com/@jpfreitas_",

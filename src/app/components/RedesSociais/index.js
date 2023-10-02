@@ -12,36 +12,36 @@ export const RedesSociais = () => {
   return (
     <RedesContainer>
       <Link
-        href="https://twitch.tv/jpfreitas_"
-        title="Twitch - jp freitas"
+        href="https://twitch.tv/jpfreitas"
+        title="Twitch - JP Freitas"
         target="_blank"
       >
         <FaTwitch />
       </Link>
       <Link
         href="https://www.instagram.com/jpfreitas_"
-        title="Instagram - jp freitas"
+        title="Instagram - JP Freitas"
         target="_blank"
       >
         <FaInstagram />
       </Link>
       <Link
         href="https://youtube.com/@jp.freitas"
-        title="YouTube - jp freitas"
+        title="YouTube - JP Freitas"
         target="_blank"
       >
         <FaYoutube />
       </Link>
       <Link
         href="https://tiktok.com/@jpfreitas_"
-        title="TikTok - jp freitas"
+        title="TikTok - JP Freitas"
         target="_blank"
       >
         <FaTiktok />
       </Link>
       <Link
         href="https://twitter.com/@jpfreitas_"
-        title="Twitter - jp freitas"
+        title="Twitter - JP Freitas"
         target="_blank"
       >
         <FaTwitter />
